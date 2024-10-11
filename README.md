@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 [![James Ju GitHub stats](https://github-readme-stats.vercel.app/api?username=Juminjae)](https://github.com/Juminjae/github-readme-stats)
 ---
-**2022/07/18 ~ 2024/01/17 KOREA ARMY**
 
